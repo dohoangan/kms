@@ -34,8 +34,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'cancancan', '~> 1.9'
   s.add_dependency 'dragonfly', '~> 1.0.7'
   s.add_dependency 'pg'
-  s.add_dependency 'textacular', '~> 4.0.0'
-
   s.add_development_dependency 'combustion', '~> 0.5.4'
   s.add_development_dependency 'factory_girl_rails'
   s.add_development_dependency 'rspec-rails', '~> 3.5.0'
